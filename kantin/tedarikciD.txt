@@ -1,0 +1,12 @@
+3				Liptob				541				141
+
+1				Ulker				555 123 512				ulker@gmail.com
+2				ETI				525 613 831				eti@gmail.com
+9				seker				35 511 531				eker@gmail.com
+
+1				Ulker				555 123 512				ulker@gmail.com
+2				ETI				525 613 831				eti@gmail.com
+6				doritos				44 412 123 1				oritos@gmail.com
+
+1				Ulker				555 123 512				ulker@gmail.com
+2				ETI				525 613 831				eti@gmail.com

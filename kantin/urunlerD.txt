@@ -1,0 +1,7 @@
+----ID----	-----ISIM-----		----ADET----		----FIYAT----
+3				kola				120				15
+
+2				havuc				123				10
+10				qwe eqwe				535				31
+
+2				havuc				101				10
